@@ -24,16 +24,14 @@ The application allows a user to enter their name into a form, sends that data t
 
 ## 📂 Project Structure
 
----
-
+```
 gae_live_site/
 │
 ├── main.py
 ├── app.yaml
 ├── requirements.txt
 └── README.md
-
----
+```
 
 ## 🚀 How It Works
 1. User accesses the homepage
@@ -55,5 +53,3 @@ gcloud app deploy
 
 ## 👤 Author
 Daniel Burrows
-
-
